@@ -20,3 +20,7 @@ Este repositório contém cenários que tiveram como base a ferramente do Google
 4. Execute o seguinte comando para iniciar os testes:
    npx cypress run
 5. No terminal vai começar a rodar os cenários e se eles passaram ou não, e o tempo que levaram para serem executados
+
+**Resultado final**
+![image](https://github.com/stenunees/testes-drive-cypress/assets/100435225/920257cc-01d5-46e7-9f4c-2dd84ed816b2)
+
