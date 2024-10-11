@@ -1,6 +1,6 @@
 # Testes do Cypress
 
-Este repositório contém cenários que tiveram como base a ferramente do Google Drive. Todos os testes foram automatizados no Cypress
+Este repositório contém cenários que tiveram como base a ferramenta do Google Drive. Todos os testes foram automatizados no Cypress
 
 ## Como rodar os testes
 
